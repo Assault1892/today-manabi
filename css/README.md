@@ -32,8 +32,8 @@ table of contents
 
 - 例
   - 1 つ指定 (margin: 10px;) : 上下左右すべて同じ値
-  - 2 つ指定 (marign: 10px 20px;) : 上下 10px / 左右 20px
-  - 3 つ指定 (marign: 10px 20px 0;) : 上 10px / 左右 20px / 下 0px
+  - 2 つ指定 (margin: 10px 20px;) : 上下 10px / 左右 20px
+  - 3 つ指定 (margin: 10px 20px 0;) : 上 10px / 左右 20px / 下 0px
   - 4 つ指定 (margin: 10px 20px 0 15px;) : 上 10px / 右 20px / 下 0px / 左 15px
 
 ## ベンダープレフィックス
