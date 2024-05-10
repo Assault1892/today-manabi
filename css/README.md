@@ -14,6 +14,7 @@ table of contents
   - [ショートハンド](#ショートハンド)
   - [ベンダープレフィックス](#ベンダープレフィックス)
 - [tags](#tags)
+  - [cursor](#cursor)
   - [border](#border)
   - [shadow系](#shadow系)
   - [display](#display)
@@ -46,6 +47,13 @@ MDN Web Docs あたりに詳細が書いてある印象
 # tags
 
 並びは適当 誰かアルファベット順ソートとかしといて
+
+## cursor
+
+マウスポインタが要素の上にあるときの状態を指定するプロパティ  
+強制的に読込中にしたり利用不可のものにしたりできる
+
+https://developer.mozilla.org/ja/docs/Web/CSS/cursor
 
 ## border
 
