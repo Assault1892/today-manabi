@@ -6,10 +6,11 @@ CSS3 準拠
 HTML といっしょに合わせておいたほうがお得  
 `@charset "utf-8";` & `<meta charset="UTF-8">` など
 
-# table of contents
+---
+
+table of contents
 
 - [雑](#雑)
-- [table of contents](#table-of-contents)
   - [ショートハンド](#ショートハンド)
   - [ベンダープレフィックス](#ベンダープレフィックス)
 - [tags](#tags)
@@ -22,6 +23,7 @@ HTML といっしょに合わせておいたほうがお得
   - [gradient](#gradient)
   - [transition](#transition)
 
+---
 
 ## ショートハンド
 
